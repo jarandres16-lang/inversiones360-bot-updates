@@ -1,6 +1,7 @@
 {
   "version": "1.3.0",
   "notes": "Video de producto, links para conseguir claves API, y botón para cerrar el bot por completo",
+  "serverUrl": "https://raw.githubusercontent.com/jarandres16-lang/inversiones360-bot-updates/main/server.js",
   "files": {
     "server.js": "https://raw.githubusercontent.com/jarandres16-lang/inversiones360-bot-updates/main/server.js",
     "main.js": "https://raw.githubusercontent.com/jarandres16-lang/inversiones360-bot-updates/main/main.js",
